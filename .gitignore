@@ -1,0 +1,36 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.swp
+
+# IntelliJ or Eclipse if you use them in future
+.idea/
+*.iml
+*.ipr
+*.iws
+*.project
+*.classpath
+.settings/
+
+# Compiled packages
+/bin/
+/out/
+/target/
+
+# Temporary files
+tmp/
+*.tmp
